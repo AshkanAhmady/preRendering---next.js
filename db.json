@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 1000,
+      "description": "description for product 1"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 9000,
+      "description": "description for product 2"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 3000,
+      "description": "description for product 3"
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 4000,
+      "description": "description for product 4"
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 5000,
+      "description": "description for product 5"
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "title": "html",
+      "category": "front-end",
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "category": "front-end",
+      "description": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "laravel",
+      "category": "back-end",
+      "description": "description 3"
+    }
+  ],
+
+  "profile": {
+    "name": "ashkan",
+    "email": "ashkan16ma96@gmail.com",
+    "transactions": 5,
+    "balance": 2000
+  }
+}
